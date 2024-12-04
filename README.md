@@ -2,7 +2,7 @@
 
 I am a Computer Science student with a primary interest in web and mobile app development. I am consistently active in enhancing my understanding and skills in this field. 
 
-Currently, I am studying web and mobile app development, cybersecurity, machine learning and artificial intelligence. With a dedication to achieving higher accomplishments, I am continually seeking opportunities to broaden my experience in the professional world.<br>Discover more on my <a href="https://ln.run/personal-website">personal website!
+Currently, I am studying web and mobile app development, cybersecurity, machine learning and artificial intelligence. With a dedication to achieving higher accomplishments, I am continually seeking opportunities to broaden my experience in the professional world.<br>Discover more on my <a href="https://beno-personal-website.vercel.app/">personal website!
 </a>
 #### Connect with me
 
